@@ -38,7 +38,7 @@ Repeat the pattern by clicking the correct colored buttons in sequence.
 
 2. Navigate to the project folder:
 
-cd simon-game
+cd simon-game 
 
 
 3. Open the index.html file in your browser.
