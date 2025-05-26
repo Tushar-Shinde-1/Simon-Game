@@ -44,7 +44,7 @@ Repeat the pattern by clicking the correct colored buttons in sequence.
 
 3. Open the index.html file in your browser.
 
-
+## It is made for entertainment 
 
 
 
