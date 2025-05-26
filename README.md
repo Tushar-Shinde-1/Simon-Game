@@ -38,6 +38,7 @@ Repeat the pattern by clicking the correct colored buttons in sequence.
 
 2. Navigate to the project folder:
 
+```bash 
 cd simon-game 
 
 
