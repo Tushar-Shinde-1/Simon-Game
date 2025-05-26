@@ -34,11 +34,11 @@ Repeat the pattern by clicking the correct colored buttons in sequence.
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/simon-game.git
+git clone https://github.com/your-username/simon-game.git```
 
 2. Navigate to the project folder:
 
-cd simon-game
+```cd simon-game```
 
 3.Open index.html in your browser.
 
